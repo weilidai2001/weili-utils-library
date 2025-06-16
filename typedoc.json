@@ -1,5 +1,5 @@
 {
-  "entryPoints": ["src/index.ts"],
+  "entryPoints": ["src/utils/*.ts"],
   "out": "docs",
   "excludeExternals": true,
   "excludePrivate": true,
@@ -13,5 +13,6 @@
   "media": "media",
   "disableSources": true,
   "excludeNotDocumented": false,
-  "excludeInternal": true
+  "excludeInternal": true,
+  "entryPointStrategy": "expand"
 }
