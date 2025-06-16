@@ -14,7 +14,7 @@
   "categorizeByGroup": true,
 
   "darkHighlightTheme": "github-dark",
-  "lightHighlightTheme": "vitesse-dark",
+  "lightHighlightTheme": "vitesse-light",
   "disableSources": true,
   "excludeNotDocumented": false,
   "excludeInternal": true,
