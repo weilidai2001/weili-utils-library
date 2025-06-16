@@ -10,7 +10,7 @@
   "exclude": ["**/*.test.ts", "**/index.ts"],
   "hideGenerator": true,
   "categorizeByGroup": true,
-  "media": "media",
+
   "disableSources": true,
   "excludeNotDocumented": false,
   "excludeInternal": true,
