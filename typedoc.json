@@ -1,5 +1,7 @@
 {
-  "entryPoints": ["src/utils/*.ts"],
+  "entryPoints": ["src/utils/*"],
+  "entryPointStrategy": "expand",
+  "includeVersion": true,
   "out": "docs",
   "excludeExternals": true,
   "excludePrivate": true,
@@ -16,5 +18,4 @@
   "disableSources": true,
   "excludeNotDocumented": false,
   "excludeInternal": true,
-  "entryPointStrategy": "expand"
 }
