@@ -11,6 +11,8 @@
   "hideGenerator": true,
   "categorizeByGroup": true,
 
+  "darkHighlightTheme": "github-dark",
+  "lightHighlightTheme": "vitesse-dark",
   "disableSources": true,
   "excludeNotDocumented": false,
   "excludeInternal": true,
