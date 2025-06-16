@@ -1,0 +1,17 @@
+{
+  "entryPoints": ["src/index.ts"],
+  "out": "docs",
+  "excludeExternals": true,
+  "excludePrivate": true,
+  "excludeProtected": true,
+  "name": "Weili Utils Library",
+  "readme": "README.md",
+  "theme": "default",
+  "exclude": ["**/__tests__/**"],
+  "hideGenerator": true,
+  "categorizeByGroup": true,
+  "media": "media",
+  "disableSources": true,
+  "excludeNotDocumented": false,
+  "excludeInternal": true
+}
