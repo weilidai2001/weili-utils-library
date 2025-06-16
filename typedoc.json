@@ -7,7 +7,7 @@
   "name": "Weili Utils Library",
   "readme": "README.md",
   "theme": "default",
-  "exclude": ["**/__tests__/**"],
+  "exclude": ["**/*.test.ts", "**/index.ts"],
   "hideGenerator": true,
   "categorizeByGroup": true,
   "media": "media",
