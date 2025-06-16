@@ -1,4 +1,4 @@
-import { partialMatch, mergeTwoListsAsUnique, sortListByProperty } from '../list-of-objects';
+import { partialMatch, mergeTwoListsAsUnique, sortListByProperty } from './list-of-objects';
 
 describe('Array Utilities', () => {
     describe('partialMatch', () => {
